@@ -1,0 +1,40 @@
+body {
+    background-color: #FDFBFA;
+}
+
+p {
+    color: #545455;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+}
+
+a {
+    color: #FC77AC;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FF9999;
+}
+
+a:active {
+    color: #E9CB6B;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+}
+
+header {
+    background-image: url("header.jpg");
+}
